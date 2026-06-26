@@ -2,4 +2,4 @@
 
 | Version | Windows | macOS | Linux |
 |---------|---------|-------|-------|
-| **v0.0.6** | [.exe](installers/v0.0.6/windows/) | [.dmg](installers/v0.0.6/mac/) | [.AppImage](installers/v0.0.6/linux/) |
+| **v0.0.8** | [.exe](SwitchR/releases/v0.0.8/windows/) | [.dmg](SwitchR/releases/v0.0.8/mac/) | [.AppImage](SwitchR/releases/v0.0.8/linux/) |
